@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@
 | ------- |
 | [0061-rotate-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
