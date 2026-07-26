@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
