@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 ## Recursion
 |  |
 | ------- |
