@@ -23,6 +23,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
