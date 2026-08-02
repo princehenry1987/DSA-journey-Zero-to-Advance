@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0007-reverse-integer) |
+| [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
