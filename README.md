@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
 ## Trie
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
