@@ -10,12 +10,14 @@
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
