@@ -28,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
 ## Trie
@@ -65,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -78,4 +81,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
