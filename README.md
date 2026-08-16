@@ -31,6 +31,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
