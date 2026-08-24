@@ -31,6 +31,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
