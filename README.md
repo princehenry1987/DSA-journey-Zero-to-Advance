@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## String
