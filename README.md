@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0086-partition-list) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
