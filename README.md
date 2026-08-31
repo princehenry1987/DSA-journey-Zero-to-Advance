@@ -47,6 +47,7 @@
 | [0148-sort-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
