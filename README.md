@@ -155,4 +155,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
