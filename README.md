@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0053-maximum-subarray) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0086-partition-list) |
