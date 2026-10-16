@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -58,6 +60,7 @@
 | [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +127,7 @@
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Manacher
 |  |
 | ------- |
