@@ -23,6 +23,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
+| [1920-build-array-from-permutation](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,4 +208,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
