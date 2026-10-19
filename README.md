@@ -25,6 +25,7 @@
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Manacher
 |  |
 | ------- |
