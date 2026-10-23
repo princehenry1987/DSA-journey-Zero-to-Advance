@@ -66,6 +66,7 @@
 | [0344-reverse-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
 ## Game Theory
