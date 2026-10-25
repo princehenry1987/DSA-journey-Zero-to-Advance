@@ -41,6 +41,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -80,12 +81,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
