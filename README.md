@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
