@@ -29,6 +29,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0877-stone-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
