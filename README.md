@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
