@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -41,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,6 +155,7 @@
 | [0148-sort-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -214,6 +218,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0229-majority-element-ii) |
 ## String Matching
 |  |
 | ------- |
