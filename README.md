@@ -33,6 +33,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
 | ------- |
