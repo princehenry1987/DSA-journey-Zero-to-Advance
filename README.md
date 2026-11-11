@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0229-majority-element-ii) |
@@ -263,4 +265,8 @@
 | [0048-rotate-image](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0073-set-matrix-zeroes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
