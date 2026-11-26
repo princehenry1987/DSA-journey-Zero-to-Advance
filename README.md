@@ -61,6 +61,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -100,6 +101,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/princehenry1987/DSA-journey-Zero-to-Advance/tree/master/0509-fibonacci-number) |
 ## Math
